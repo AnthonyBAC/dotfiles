@@ -14,6 +14,7 @@ cp -r ~/.config/wal ~/dotfiles/dotfiles
 cp -r ~/.config/waybar ~/dotfiles/dotfiles
 cp -f ~/.zshrc ~/dotfiles/dotfiles
 cp -r ~/scripts ~/dotfiles/dotfiles
+cp -r ~/extra ~/dotfiles/dotfiles
 
 cd ~/dotfiles/dotfiles
 git add .
