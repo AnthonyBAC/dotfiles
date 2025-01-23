@@ -3,6 +3,7 @@
 @define-color tp rgba(40, 40, 40, 0);
 @define-color bg2 #EBDBA1;
 @define-color bg3 #99917f;
+@define-color br1 rgba(EBDBA180);
 /* -----------------------------------------------------
  * General 
  * ----------------------------------------------------- */
@@ -19,6 +20,8 @@ window#waybar {
     background-color: rgba(40,40,40,0.8);
     transition-property: background-color;
     transition-duration: .5s;
+    border: 1px solid @br1;
+
 }
 
 /* -----------------------------------------------------
