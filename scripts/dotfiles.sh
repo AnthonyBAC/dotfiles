@@ -20,7 +20,7 @@ cp -r ~/Pictures/wallpapers ~/dotfiles/dotfiles
 cd ~/dotfiles/dotfiles
 git add .
 git commit -m "Todo"
-git pull
+git rebase origin/main
 git push
 
 

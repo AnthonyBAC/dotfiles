@@ -3,7 +3,7 @@
 @define-color tp rgba(40, 40, 40, 0);
 @define-color bg2 #EBDBA1;
 @define-color bg3 #99917f;
-@define-color br1 rgba(EBDBA180);
+@define-color br1 rgba(235, 219, 161, 0.5);
 /* -----------------------------------------------------
  * General 
  * ----------------------------------------------------- */
@@ -29,7 +29,8 @@ window#waybar {
  * ----------------------------------------------------- */
 
 #workspaces {
-    padding: 5px 5px;
+margin: 0px 0px;
+    padding: 1px 5px;
     font-size: 14px;
     color: @text;
     /*background-color: @bg;*//*conf1*/ 
@@ -40,8 +41,8 @@ window#waybar {
 
 #workspaces button {
     border: 0px;
-    margin: 0 2px;
-    padding: 1px 5px;
+    margin: 5px 3px;
+    padding: 0px 5px;
     color: @text;
     transition: all 0.5s ease-in-out;
     border-radius: 5px;
