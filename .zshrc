@@ -86,7 +86,7 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 
 # Aliases
 alias ls='ls --color'
-alias vim='nvim'
+alias vim='sudo -E -s nvim'
 alias c='clear'
 alias dots="~/scripts/dotfiles.sh"
 alias wayr="~/.config/waybar/launch.sh"

@@ -4,5 +4,5 @@ cd ~/Documents/Notes
 
 git add .
 git commit -m "Notes Update"
-git rebase origin/master
+git pull --rebase
 git push -u origin master
