@@ -90,6 +90,7 @@ alias vim='nvim'
 alias c='clear'
 alias dots="~/scripts/dotfiles.sh"
 alias wayr="~/.config/waybar/launch.sh"
+alias notes="~/scripts/notes.sh"
 
 # Shell integrations
 eval "$(fzf --zsh)"
