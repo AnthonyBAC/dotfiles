@@ -6,7 +6,7 @@ cp -r ~/.config/gtk-3.0 ~/dotfiles/dotfiles
 cp -r ~/.config/gtk-4.0 ~/dotfiles/dotfiles
 cp -r ~/.config/hypr ~/dotfiles/dotfiles
 cp -r ~/.config/nautilus ~/dotfiles/dotfiles
-cp -r ~/.config/nvim ~/dotfiles/dotfiles/nvim
+cp -r ~/.config/nvim ~/dotfiles/dotfiles
 cp -r ~/.config/nwg-look ~/dotfiles/dotfiles
 cp -r ~/.config/qt6ct ~/dotfiles/dotfiles
 cp -r ~/.config/rofi ~/dotfiles/dotfiles
