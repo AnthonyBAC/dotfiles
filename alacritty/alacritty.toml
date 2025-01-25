@@ -1,6 +1,7 @@
 [window] 
-padding = { x = 10 , y = 5}
+padding = { x = 5 , y = 5}
 opacity = 0.9
+decorations = "None"
 
 [font]
 normal = { family = "Fira Code", style = "Light" }
@@ -12,4 +13,5 @@ offset = {x =1, y = 0}
 
 [cursor]
 style = { shape = "Underline", blinking = "off" }
+
 

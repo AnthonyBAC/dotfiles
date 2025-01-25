@@ -91,7 +91,7 @@ alias c='clear'
 alias dots="~/scripts/dotfiles.sh"
 alias wayr="~/.config/waybar/launch.sh"
 alias notes="~/scripts/notes.sh"
-
+alias pushing="~/scripts/pushing.sh"
 # Shell integrations
 eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
