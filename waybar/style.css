@@ -29,8 +29,8 @@ window#waybar {
  * ----------------------------------------------------- */
 
 #workspaces {
-margin: 0px 0px;
-    padding: 1px 5px;
+margin: 2px 0px;
+    padding: 1px 4px;
     font-size: 14px;
     color: @text;
     /*background-color: @bg;*//*conf1*/ 
@@ -41,7 +41,7 @@ margin: 0px 0px;
 
 #workspaces button {
     border: 0px;
-    margin: 5px 3px;
+    margin: 5px 2px;
     padding: 0px 5px;
     color: @text;
     transition: all 0.5s ease-in-out;
@@ -103,7 +103,7 @@ margin: 0px 0px;
     color: @text;
     border-radius: 5px;
     /*padding: 5px 10px;*/
-    padding:5px;
+    padding:5px 10px;
     /*background-color: @bg;*/
     background-color: @tp;
 }
