@@ -1,6 +1,6 @@
 # Packages
 
-| use  | name package  |
+| Package Name  | package  |
 |:-:|:-:|
 | Status Bar  | waybar  |
 |  Launcher | rofi-wayland  |
