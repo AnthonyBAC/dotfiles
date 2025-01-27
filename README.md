@@ -1,4 +1,6 @@
-# Packages
+# Dotfiles Arch/hyprland
+
+## Packages
 
 | Package Name  | Package  |
 |:-:|:-:|
